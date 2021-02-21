@@ -1,4 +1,4 @@
-// define constants
+// define constants DAT
 String PIPELINE_STDLIB_NAME = "pipeline-library"
 
 env.PIPELINE_CONFIG_FILE = "pipeline.yml"
